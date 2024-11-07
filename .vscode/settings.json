@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.base.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.controls.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.fxml.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.graphics.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.media.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.swing.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx.web.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\javafx-swt.jar",
+        "c:\\openjfx-11.0.2_windows-x64_bin-sdk\\lib\\opencsv-5.5.2.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "c:\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+        "c:\\Users\\Iqbal\\Downloads\\db2jcc.jar",
+        "c:\\Users\\Iqbal\\Downloads\\db2jcc_license_cu.jar"
+    ]
+}

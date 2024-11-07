@@ -1,0 +1,70 @@
+.root {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: linear-gradient(rgb(75, 5, 77), rgb(36, 4, 87));
+    -fx-font-family: Arial, Helvetica, sans-serif;
+    -fx-font-size: large;
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(213, 222, 223);
+    -fx-background-color: linear-gradient(rgb(75, 5, 77), rgb(36, 4, 87));
+}
+
+.button {
+    background-color: none;
+    -fx-background-color: none;
+    -fx-text-fill: rgb(213, 222, 223);
+}
+
+.button:hover {
+    background-color: rgb(87, 52, 128);
+    -fx-background-color: rgb(87, 52, 128);
+    -fx-text-fill: rgb(213, 222, 223);
+}
+
+.borderDesign {
+    background-color: rgb(52, 100, 128);
+    -fx-background-color: rgb(52, 100, 128);
+}
+
+#layoutFont {
+    -fx-text-fill: rgb(213, 222, 223);
+}
+
+#layoutDesign {
+    background-color: rgb(213, 222, 223);
+    -fx-background-color: rgb(213, 222, 223);
+}
+
+#buttonInLayout {
+    -fx-text-fill: rgb(52, 100, 128);
+}
+
+#buttonInLayout:hover {
+    -fx-text-fill: rgb(213, 222, 223);
+}
+
+#buttonSwitch {
+    background-color: rgb(108, 143, 121);
+    opacity: 50%;
+    -fx-background-color: rgb(108, 143, 121);
+    -fx-opacity: 50%;
+}
+
+#buttonSwitch:disabled {
+    background-color: rgb(2, 129, 51);
+    opacity: 100%;
+    -fx-background-color: rgb(2, 129, 51);
+    -fx-opacity: 100%;
+}
+
+#labelProfile {
+    font-size: x-large;
+    -fx-font-size: x-large;
+}
+
+#labelStatus {
+    font-size: xx-large;
+    -fx-font-size: xx-large;
+    -fx-text-fill: rgb(84, 42, 151);
+}
